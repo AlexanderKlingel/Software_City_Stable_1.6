@@ -1,0 +1,49 @@
+Angaben zur Person:
+
+- In welchem Semester studierst du aktuell?
+Antwort:
+
+- Wie schätzt du dein Wissen im Bereich Software Engineering ein? (Anfänger / Fortgeschritten / Experte)
+Antwort:
+
+- Wie lange hast du das Spiel ungefähr gespielt? (in Minuten)
+Antwort:
+
+
+Bewertung des Spiels:
+
+- Wie hat dir die Benutzeroberfläche (UI) des Spiels gefallen? (sehr schlecht - sehr gut)
+Antwort:
+
+- Wie intuitiv war die Steuerung des Spiels? (sehr unintuitiv - sehr intuitiv)
+Antwort:
+
+- Wie hilfreich waren die Erklärungen und Anleitungen im Spiel? (gar nicht hilfreich - sehr hilfreich)
+Antwort:
+
+- Wie realistisch empfandest du die dargestellten Szenarien im Spiel? (gar nicht realistisch - sehr realistisch)
+Antwort:
+
+- Hat das Spiel dein Interesse an Software Engineering Themen gesteigert? (gar nicht - sehr stark)
+Antwort:
+
+- Wie motivierend fandest du das Spiel insgesamt? (gar nicht motivierend - sehr motivierend)
+Antwort:
+
+- Wie verständlich waren die Aufgabenstellungen im Spiel? (gar nicht verständlich - sehr verständlich)
+Antwort:
+
+- Wie angemessen war der Schwierigkeitsgrad des Spiels? (viel zu leicht - viel zu schwer)
+Antwort:
+
+- Würdest du das Spiel anderen Studierenden empfehlen? (ja / nein)
+Antwort:
+
+
+Optional - Offene Fragen:
+
+- Was hat dir sonst noch gut gefallen?
+Antwort:
+
+- Was hat dir sonst noch nicht so gut gefallen?
+Antwort:

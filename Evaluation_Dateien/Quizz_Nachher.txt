@@ -1,0 +1,195 @@
+Beantworte die folgenden Fragen ohne Hilfsmittel.
+
+Antwortschema:
+
+Bei Multiple Choice: z.b. A) Deine Antwort
+Bei Wahr-Falsch: Wahr / Falsch
+Bei Lückentexten: Lücke 1, Lücke 2, ...
+Bei Codevervollständigung: Lücke 1, Lücke 2, ...
+
+
+Frageblock 1: Software Testing
+
+
+
+Frage 1: (Wahr oder Falsch)
+
+Whitebox Testing erfordert Kenntnisse der internen Struktur des Codes, während Blackbox Testing dies nicht tut.
+
+Antwort:
+
+
+
+Frage 2: (Multiple Choice)
+
+Was wird unter 'Testfallexplosion' verstanden?
+
+A) Eine Test wird durch einen kritischen Fehler im System unerwartet beendet
+B) Der unverhältnismässige Anstieg der Zahl an Testfällen mit ansteigender Größe der Testbasis
+C) Bei zu vielen Tests muss die Testumgebung automatisch zurückgesetzt werden
+
+Antwort: 
+
+
+
+Frage 3: (Lückentext)
+
+Blackbox Testing wird unterteilt in (Lücke 1) und (Lücke 2)
+
+Antwort:
+
+
+
+Frage 4: (Codevervollständigung)
+
+Vervollständige diesen Code:
+test('Add function returns correct sum'):
+(Lücke 1) add(2, 3) == (Lücke 2)
+
+Antwort:
+
+
+
+Frage 5: (Multiple Choice)
+
+Was versteht man unter Software Testing?
+
+A) Eine Software wird mit anderen Softwares verglichen.
+B) Der Prozess der Verifikation und Validierung eines Software Produktes.
+B) Beim Software Testing werden nur automatisierte Tests geschrieben
+
+Antwort: 
+
+
+
+Frage 6: (Multiple Choice)
+
+Was beschreibt Unit Testing am besten?
+
+A) Es ist ein Test auf Systemebene, bei dem alle Module zusammen getestet werden.
+B) Es wird nur eingesetzt, um die Benutzeroberfläche manuell zu prüfen.
+B) Es handelt sich um Tests einzelner Funktionen oder Methoden in Isolation.
+
+Antwort: 
+
+
+
+Frage 7: (Wahr oder Falsch)
+
+Was beschreibt Unit Testing am besten?
+
+A) Es ist ein Test auf Systemebene, bei dem alle Module zusammen getestet werden.
+B) Es wird nur eingesetzt, um die Benutzeroberfläche manuell zu prüfen.
+B) Es handelt sich um Tests einzelner Funktionen oder Methoden in Isolation.
+
+Antwort: 
+
+
+Frage 8:
+
+Unten siehst du einen Pseudocode für einen Test. Vervollständige die fehlenden Teile und benenne die zugrunde liegende Testtechnik.
+-----------------------------------------------------------------------------------------
+#Funktion, die eine Zahl klassifiziert
+def classify_number(n):
+    if n < 0:
+        return "negativ"
+    elif n == 0:
+        return "null"
+    else:
+        return "positiv"
+
+# Testfälle
+assert classify_number(-1) == "negativ"
+assert classify_number(0) == "___(2)___"
+assert classify_number(1) == "positiv"
+---------------------------------------------------------------------------------------
+(1) Welche Technik wird hier verwendet, um die Eingabewerte auszuwählen?
+
+A) Äquivalenzklassenbildung
+B) Grenzwertanalyse
+C) Entscheidungsbaumtest
+D) Zufallstest
+
+Antwort:
+
+(2) Wie lautet der erwartete Rückgabewert im zweiten Testfall?
+
+Antwort:
+
+
+
+
+
+Frageblock 2: Agile Methoden
+
+
+
+Frage 1: (Multiple Choice)
+
+Was versteht man unter Scrum?
+
+A) Eine klassische Projektmanagement-Methode mit detaillierten Ablaufplänen
+B) Ein agiles Framework zur Entwicklung und kontinuierlichen Verbesserung komplexer Produkte
+C) Ein Werkzeug zur automatischen Software-Generierung
+
+Antwort:
+
+
+
+Frage 2: (Multiple Choice)
+
+Welche Phase gehört NICHT zum typischen Scrum-Ablauf?
+
+A) Sprint Planning
+B) Daily Scrum
+C) Requirement Freeze
+D) Sprint Review
+
+Antwort: 
+
+
+
+Frage 3: (Wahr oder Falsch)
+
+Agile Methoden sind schneller als das Wasserfallmodell, weil sie keine Dokumentation benötigen
+
+Antwort:
+
+
+
+Frage 4: (Lückentext)
+
+In Scrum bestimmt der (Lücke 1) die Anforderungen, der (Lücke 2) organisiert den Sprint, das (Lücke 3) arbeitet am Inkrement.
+
+Antwort: 
+
+
+
+Frage 5: (Multiple Choice)
+
+Wie lang darf ein Daily Scrum maximal dauern?
+
+A) 30 Minuten
+B) 15 Minuten
+C) Keine Zeitbegrenzung
+
+Antwort:
+
+
+
+Frage 6: (Wahr oder Falsch)
+
+Der Scrum Master ist verantwortlich für das Product Backlog und die Anforderungen.
+
+Antwort:
+
+
+
+Frage 7: (Lückentext)
+
+Das Agile Manifest fordert unter anderem ständige (Lücke 1) mit dem Kunden.
+
+Antwort: 
+
+
+
