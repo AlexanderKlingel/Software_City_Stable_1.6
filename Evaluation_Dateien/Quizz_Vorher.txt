@@ -76,13 +76,12 @@ Antwort:
 
 Frage 7: (Wahr oder Falsch)
 
-Was beschreibt Unit Testing am besten?
+Testfälle müssen nur einmal erstellt und nie wieder geändert werden.
 
-A) Es ist ein Test auf Systemebene, bei dem alle Module zusammen getestet werden.
-B) Es wird nur eingesetzt, um die Benutzeroberfläche manuell zu prüfen.
-B) Es handelt sich um Tests einzelner Funktionen oder Methoden in Isolation.
+Antwort:
+ 
+Begründung:
 
-Antwort: 
 
 
 Frage 8:
